@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 public class ja {
-  
+   
  
 	public static void main(String[] args) {
 		int sum=0;
